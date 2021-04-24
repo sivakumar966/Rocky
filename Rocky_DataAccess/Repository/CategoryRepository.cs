@@ -1,4 +1,4 @@
-﻿using Rocky_DataAccess.Repository.IRepoditory;
+﻿using Rocky_DataAccess.Repository.IRepository;
 using Rocky_Models;
 
 namespace Rocky_DataAccess.Repository

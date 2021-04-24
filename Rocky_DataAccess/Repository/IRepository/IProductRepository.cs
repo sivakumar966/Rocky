@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rocky_DataAccess.Repository.IRepoditory
+namespace Rocky_DataAccess.Repository.IRepository
 {
     public interface IProductRepository : IRepository<Product>
     {

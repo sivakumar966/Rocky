@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Rocky_DataAccess.Repository.IRepoditory
+namespace Rocky_DataAccess.Repository.IRepository
 {
     public interface IRepository<T> where T : class 
     {

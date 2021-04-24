@@ -8,7 +8,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Rocky_DataAccess;
 using Rocky_DataAccess.Repository;
-using Rocky_DataAccess.Repository.IRepoditory;
 using Rocky_DataAccess.Repository.IRepository;
 using Rocky_Utility;
 using System;
